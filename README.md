@@ -1,2 +1,2 @@
-# test
+# SUM OF THE INTEGERS
 EXERCISE 1
